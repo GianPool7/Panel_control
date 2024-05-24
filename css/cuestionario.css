@@ -1,0 +1,28 @@
+*{
+    text-transform: capitalize;
+}
+
+#respuestasi{
+    display: none;
+}
+
+#respuestano{
+    display: none;
+}
+
+#guardar{
+    display: none; 
+}
+
+#mostrarestudiante{
+    display: none;
+}
+
+#ciclo{
+    display: none;
+}
+
+
+#egresado{
+    display: none;
+}
